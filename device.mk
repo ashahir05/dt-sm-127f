@@ -4,8 +4,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/samsung/a12s
-
 # Enable updating of APEXes
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
