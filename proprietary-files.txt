@@ -332,7 +332,7 @@ vendor/etc/media_profiles_V1_0.xml
 # NFC
 vendor/bin/hw/nxp.android.hardware.nfc@1.2-service
 vendor/etc/init/nxp.android.hardware.nfc@1.2-service.rc
-vendor/etc/vintf/manifest/nxp.android.hardware.nfc@1.2-service.xml
+-vendor/etc/vintf/manifest/nxp.android.hardware.nfc@1.2-service.xml
 vendor/lib64/nfc_nci_nxpsn.so
 vendor/lib64/vendor.samsung.hardware.nfc@2.0.so
 
